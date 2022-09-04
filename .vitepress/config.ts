@@ -8,7 +8,7 @@ import { nav, sidebarGuide, sidebarMdShow } from './menus'
 
 export default defineConfigWithTheme<VuetomThemeConfig>({
   lang: 'zh-CN',
-  base: '/vt',
+  base: '/',
   title: 'IBPE',
   description: 'Innovative Base of Physics Experiment',
 
