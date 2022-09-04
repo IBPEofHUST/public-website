@@ -9,7 +9,7 @@ module.exports = (req, res) => {
     target,
     changeOrigin: true,
     pathRewrite: {
-      '^/': '/'
+      '^/pt': '/'
     }
   })(req, res)
 }
