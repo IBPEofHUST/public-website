@@ -43,8 +43,3 @@ IBPE学术年会是每年一度学术交流盛会，详见学术年会章节
 
 IBPE每年会对新成员布置适量的寒假作业，详见寒假作业章节
 
-## 推荐开发工具？
-
-这就无所谓了吧哈哈。
-
-[vscode编辑器](https://code.visualstudio.com/) => [下载地址](https://blog.csdn.net/bielaiwuyang1999/article/details/117814237)
