@@ -44,11 +44,7 @@ __这是黑体__
    1. Item 3b
 
 
-![Yaktocat的图片](/logo/vuetom-logo.png)
 
-
-http://github.com - automatic!
-[GitHub](http://github.com)
 
 
 As Kanye West said:

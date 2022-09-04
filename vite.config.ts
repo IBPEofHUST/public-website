@@ -35,5 +35,8 @@ export default defineConfig({
   // plugins: [Inspect()],
   optimizeDeps: {
     include: ['@vueuse/core']
+  },
+  ssr:{
+    noExternal: ['vitepress-theme-vuetom',/\.css$/, /\?vue&type=style/, /^vuetify/],
   }
 })
