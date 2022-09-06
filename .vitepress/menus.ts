@@ -34,7 +34,7 @@ const sidebarGuide = () => [
       {
         text: '夜间模式',
         link: '/zh-CN/guide/dark'
-      }
+      } 
     ]
   }
 ]
